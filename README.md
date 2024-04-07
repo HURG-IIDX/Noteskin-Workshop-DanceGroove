@@ -12,3 +12,10 @@ Tap explosions can be customized to different judgements. By default it comes wi
 Hold explosions can be color customized to many different color options and also come in the same 3 variations as tap explosions (Spark, Glow, and Minimal). Here is a preview example of the purple hold explosions.
 
 ![Purple](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/94b25749-5f99-4424-b8fb-798e1aeac9f3)
+
+-----------------------------------Holds and Rolls-----------------------------------
+
+Holds and rolls (active and inactive) can be color customized. Every color option has a standard and shadow version. Feel free to mix and match different options! Here are preview examples for the "Vapor" normal and shadow color options.
+
+![Vapor](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/face96e3-2763-4835-8889-011a09d2d400)
+![Vapor Shadow](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/778df8db-e617-437e-8a9e-aa7b7dd3b862)
