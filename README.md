@@ -6,7 +6,7 @@ Customization options:
 
 -----------------------------------Arrows-----------------------------------
 
-There are a lot of arrow customization options (over eighty!). By default the skin uses the "ITG" arrow set. In the previews folder there are animated GIF previews of every arrow option except for those that have no animation, such as "Dev Cel", those are presented as static PNG images. Every arrow preview image has labels for each quantization. As an example, here is the preview image for the default ITG arrow set.
+There are a lot of arrow customization options (over eighty!) including color sets for ITG, DDR note, vivid, RGB, and other color schemes seen on other various noteskins, which multiple variations for each color set. By default the skin uses the "ITG" arrow set. In the previews folder there are animated GIF previews of every arrow option except for those that have no animation, such as "Dev Cel", those are presented as static PNG images. Every arrow preview image has labels for each quantization. As an example, here is the preview image for the default ITG arrow set.
 
 ![ITG](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/6430747a-448d-4a1f-8912-dcbb02d78e68)
 
