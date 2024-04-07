@@ -45,3 +45,12 @@ Classic:
 
 Center Glow:
 ![Ocean](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/360e634c-3fe7-490b-8353-9a67339a6bd1)
+
+
+Customization Instructions:
+
+First extract the "DanceGroove - Workshop" folder and place it in your Stepmania install in your noteskins>dance folder. This is the noteskin you will be using as a base for customization. Feel free to rename it as this will be something you can make your own!
+
+In the "Customizations" folder you will find the files needed to change the colors of the different aspects of the noteskin. Each aspect has numerous color options. Within each color folder you will find the .PNG files needed to change the color of the noteskin aspect. Place those in your "DanceGroove - Workshop" (or whatever you renamed it to if you did) and replace the existing .PNG files.
+
+For example, if you wanted purple holds, you would go to the Customizations>Holds>Purple folder, and drag those .PNG files into the noteskin's folder.
