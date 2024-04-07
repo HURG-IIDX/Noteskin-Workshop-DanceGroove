@@ -8,7 +8,9 @@ There are a lot of arrow customization options (over eighty!). By default the sk
 
 ![ITG](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/6430747a-448d-4a1f-8912-dcbb02d78e68)
 
+This noteskin also supports lifts. Lifts appear the same and are visually distinct regardless of what arrow set you use. Here is a preview image of how lift arrows appear in game
 
+![Lift-Reduced](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/e2cec9e9-248d-47e2-b538-cf84415b6291)
 
 -----------------------------------Explosions-----------------------------------
 
