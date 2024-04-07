@@ -15,13 +15,23 @@ Hold explosions can be color customized to many different color options and also
 
 -----------------------------------Holds and Rolls-----------------------------------
 
-Holds and rolls (active and inactive) can be color customized. Every color option has a standard and shadow version. Feel free to mix and match different options! Here are preview examples for the "Vapor" normal and shadow color options.
+Holds and rolls (active and inactive) can be color customized. Every color option has a standard and shadow version. Feel free to mix and match different options! By default the noteskin uses the "white" color options for both holds and rolls. As an example, here are preview examples for the "Vapor" normal and shadow color options.
 
 ![Vapor](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/face96e3-2763-4835-8889-011a09d2d400)
 ![Vapor Shadow](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/778df8db-e617-437e-8a9e-aa7b7dd3b862)
 
 -----------------------------------Mines-----------------------------------
 
-Mines can be color customized, and for every color option there are four different types of mine graphic styles, ITG, Note, X, and Dot. In game is just the graphic rotating. By default the skin uses the ITG "Red" color optio. As an example, here is the preview image for the "Red" hold explosions.
+Mines can be color customized, and for every color option there are four different types of mine graphic styles, ITG, Note, X, and Dot. In game is just the graphic rotating. By default the skin uses the ITG "Red" color option. As an example, here is the preview image for the "Red" hold explosions.
 ![Red](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/16ee885a-3404-4e2b-a16a-5cae167afcde)
 
+
+-----------------------------------Receptors-----------------------------------
+
+Receptors can be color customized and there are two variations of receptors, Classic (similar to normal DDR noteskins with a hollow center and frame that blinks on beat) and Center Glow (Center area of arrow glow blinks on beat). By default the noteskin uses the "gray" center glow option. As an example, here are the "Ocean" color preview images for both Classic and Center Glow receptors.
+
+Classic:
+![Ocean](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/95b17e29-1338-4ee8-8b3d-bdedd3990f3c)
+
+Center Glow:
+![Ocean](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/360e634c-3fe7-490b-8353-9a67339a6bd1)
