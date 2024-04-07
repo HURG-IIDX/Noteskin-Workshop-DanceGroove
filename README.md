@@ -6,10 +6,10 @@ Customization options
 
 Both hold and tap explosions can be customized. 
 
-Tap explosions can be customized to different judgements. By default it comes with ITG, but there are options for things like Rainbowmatic and Waterfall and a few others. There is also an "all white" option if you prefer your tap explosions to be color neutral. Tap explosions come in 3 variants per color set: Spark (X shaped like a traditional DDR tap explosion), Glow (more like the ITG Cel/Metal noteskin tap explosions) and Minimal (similar to glow but with a smaller area). Here is a preview example for the default "ITG" tap explosion set.
+Tap explosions can be customized to different judgements. By default it comes with ITG, but there are options for things like Rainbowmatic and Waterfall and a few others. There is also an "all white" option if you prefer your tap explosions to be color neutral. Tap explosions come in 3 variants per color set: Spark (X shaped like a traditional DDR tap explosion), Glow (more like the ITG Cel/Metal noteskin tap explosions) and Minimal (similar to glow but with a smaller area). Here is a preview example for the "ITG" tap explosion set (by default the skin uses the ITG Spark set).
 ![ITG (Default)](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/9b85b07b-9897-416d-8a28-12747c1bfd10)
 
-Hold explosions can be color customized to many different color options and also come in the same 3 variations as tap explosions (Spark, Glow, and Minimal). Here is a preview example of the purple hold explosions.
+Hold explosions can be color customized to many different color options and also come in the same 3 variations as tap explosions (Spark, Glow, and Minimal). By default the skin uses the "White" minimal color option. As an example, here is a preview image of the "Purple" hold explosions.
 
 ![Purple](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/94b25749-5f99-4424-b8fb-798e1aeac9f3)
 
@@ -19,3 +19,9 @@ Holds and rolls (active and inactive) can be color customized. Every color optio
 
 ![Vapor](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/face96e3-2763-4835-8889-011a09d2d400)
 ![Vapor Shadow](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/778df8db-e617-437e-8a9e-aa7b7dd3b862)
+
+-----------------------------------Mines-----------------------------------
+
+Mines can be color customized, and for every color option there are four different types of mine graphic styles, ITG, Note, X, and Dot. By default the skin uses the ITG "Red" color optio. As an example, here is the preview image for the "Red" hold explosions.
+![Red](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/16ee885a-3404-4e2b-a16a-5cae167afcde)
+
