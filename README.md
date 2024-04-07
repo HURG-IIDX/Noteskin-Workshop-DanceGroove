@@ -1,6 +1,14 @@
-Welcome to the "Noteskin Workshop" for "DanceGroove", a DDR style noteskin, but with a more modern feature set. This noteskin features all new high resolution assets, and will look great even on 4k displays. Just about every aspect of the noteskin can be color customized, and for the arrows themselves there are over eighty variations! All color customization options cab be browsed in the "previews" folder.
+Welcome to the "Noteskin Workshop" for "DanceGroove", a DDR style noteskin with a modern feature set. This noteskin features all new high resolution assets, and will look great even on 4k displays. Just about every aspect of the noteskin can be customized. All customization options have preview images that can be browsed in the "previews" folder. Please note that preview images are almost entirely presented at a lower resolution than the actual assets of the noteskin to help reduce download size.
 
-Customization options
+Customization options:
+
+-----------------------------------Arrows-----------------------------------
+
+There are a lot of arrow customization options (over eighty!). By default the skin uses the "ITG" arrow set. In the previews folder there are animated GIF previews of every arrow option except for those that have no animation, such as "Dev Cel", those are presented as static PNG images. Every arrow preview image has labels for each quantization. As an example, here is the preview image for the default ITG arrow set.
+
+![ITG](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/6430747a-448d-4a1f-8912-dcbb02d78e68)
+
+
 
 -----------------------------------Explosions-----------------------------------
 
