@@ -55,3 +55,7 @@ First extract the "DanceGroove - Workshop" folder and place it in your Stepmania
 In the "Customizations" folder you will find the files needed to change the colors of the different aspects of the noteskin. Each aspect has numerous color options. Within each color folder you will find the .PNG files needed to change the color of the noteskin aspect. Place those in your "DanceGroove - Workshop" (or whatever you renamed it to if you did) and replace the existing .PNG files.
 
 For example, if you wanted purple holds, you would go to the Customizations>Holds>Purple folder, and drag those .PNG files into the noteskin's folder.
+
+----------------------------------------------------------------------------------------------------------------
+
+Special thanks to Megasphere/Pete Lawrence, the arrow graphics and hold/roll graphics are edits/based on assets from his WIP DDR noteskins which can be found here https://github.com/Pete-Lawrence/Peters-Noteskins/tree/main
