@@ -1,4 +1,4 @@
-Welcome to the "Noteskin Workshop" for "DanceGroove", a DDR style noteskin with a modern feature set. This noteskin features all new high resolution assets, and will look great even on 4k displays. Just about every aspect of the noteskin can be customized. All customization options have preview images that can be browsed in the "previews" folder. Please note that preview images are almost entirely presented at a lower resolution than the actual assets of the noteskin to help reduce download size.
+(Scroll down to the bottom for Customization Instructions!) Welcome to the "Noteskin Workshop" for "DanceGroove", a DDR style noteskin with a modern feature set. This noteskin features all new high resolution assets, and will look great even on 4k displays. Just about every aspect of the noteskin can be customized. All customization options have preview images that can be browsed in the "previews" folder. Please note that preview images are almost entirely presented at a lower resolution than the actual assets of the noteskin to help reduce download size.
 
 Customization options:
 
@@ -46,6 +46,7 @@ Classic:
 Center Glow:
 ![Ocean](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/360e634c-3fe7-490b-8353-9a67339a6bd1)
 
+----------------------------------------------------------------------------------------------------------------
 
 Customization Instructions:
 
