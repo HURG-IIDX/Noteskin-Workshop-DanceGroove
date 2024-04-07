@@ -22,7 +22,7 @@ Holds and rolls (active and inactive) can be color customized. Every color optio
 
 -----------------------------------Mines-----------------------------------
 
-Mines can be color customized, and for every color option there are four different types of mine graphic styles, ITG, Note, X, and Dot. In game is just the graphic rotating. By default the skin uses the ITG "Red" color option. As an example, here is the preview image for the "Red" hold explosions.
+Mines can be color customized, and for every color option there are four different types of mine graphic styles, ITG, Note, X, and Dot. In game is just the graphic rotating. By default the skin uses the ITG "Red" color option. As an example, here is the preview image for the "Red" mine options.
 ![Red](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/16ee885a-3404-4e2b-a16a-5cae167afcde)
 
 
