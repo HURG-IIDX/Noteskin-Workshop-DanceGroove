@@ -6,7 +6,7 @@ Customization options
 
 Both hold and tap explosions can be customized. 
 
-Tap explosions can be customized to different judgements. By default it comes with ITG, but there are options for things like Rainbowmatic and Waterfall and a few others. There is also an "all white" option if you prefer your tap explosions to be color neutral. Tap explosions come in 3 variants per color set: Spark (X shaped like a traditional DDR tap explosion), Glow (more like the ITG Cel/Metal noteskin tap explosions) and Minimal (similar to glow but with a smaller area). Here is a preview example for the "ITG" tap explosion set (by default the skin uses the ITG Spark set).
+Tap explosions can be customized to different judgements. By default it comes with ITG, but there are options for things like Rainbowmatic and Waterfall and a few others. There is also an "all white" option if you prefer your tap explosions to be color neutral. Tap explosions come in 3 variants per color set: Spark (X shaped like a traditional DDR tap explosion), Glow (more like the ITG Cel/Metal noteskin tap explosions) and Minimal (similar to glow but with a smaller area). As an exmple, here is a preview example for the "ITG" tap explosion set (by default the skin uses the ITG Spark set).
 ![ITG (Default)](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/9b85b07b-9897-416d-8a28-12747c1bfd10)
 
 Hold explosions can be color customized to many different color options and also come in the same 3 variations as tap explosions (Spark, Glow, and Minimal). By default the skin uses the "White" minimal color option. As an example, here is a preview image of the "Purple" hold explosions.
@@ -15,7 +15,7 @@ Hold explosions can be color customized to many different color options and also
 
 -----------------------------------Holds and Rolls-----------------------------------
 
-Holds and rolls (active and inactive) can be color customized. Every color option has a standard and shadow version. Feel free to mix and match different options! By default the noteskin uses the "white" color options for both holds and rolls. As an example, here are preview examples for the "Vapor" normal and shadow color options.
+Holds and rolls (active and inactive) can be color customized. Every color option has a standard and shadow version. Feel free to mix and match different options! By default the noteskin uses the "white" color options for both holds and rolls. As an example, here are preview images for the "Vapor" normal and shadow color options.
 
 ![Vapor](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/face96e3-2763-4835-8889-011a09d2d400)
 ![Vapor Shadow](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/778df8db-e617-437e-8a9e-aa7b7dd3b862)
