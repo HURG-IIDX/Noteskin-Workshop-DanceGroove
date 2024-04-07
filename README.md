@@ -3,5 +3,6 @@ Welcome to the "Noteskin Workshop" for "DanceGroove", a DDR style noteskin, but 
 Customization options
 
 -----------------------------------Explosions-----------------------------------
+
 Both hold and tap explosions can be customized. Tap explosions can be customized to different judgements. By default it comes with ITG, but there are options for things like Rainbowmatic and Waterfall and a few others. There is also an "all white" option if you prefer your tap explosions to be color neutral. Tap explosions come in 3 variants per color set: Spark (X shaped like a traditional DDR tap explosion), Glow (more like the ITG Cel/Metal noteskin tap explosions) and minimal. Here is a preview example for the default "ITG" tap explosion set.
 ![ITG (Default)](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/9b85b07b-9897-416d-8a28-12747c1bfd10)
