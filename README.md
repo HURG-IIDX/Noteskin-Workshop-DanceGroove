@@ -12,7 +12,7 @@ There are a lot of arrow customization options (over eighty!) including color se
 
 This noteskin also supports lifts. Lifts appear the same and are visually distinct regardless of what arrow set you use. Here is a preview image of how lift arrows appear in game
 
-![Lift-Reduced](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/e2cec9e9-248d-47e2-b538-cf84415b6291)
+![Lift-Reduced-Size](https://github.com/HURG-IIDX/Noteskin-Workshop-DanceGroove/assets/19560941/ff1bfc0f-20d1-46a0-a3b3-e011c719f765)
 
 -----------------------------------Explosions-----------------------------------
 
